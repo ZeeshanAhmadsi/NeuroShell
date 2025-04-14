@@ -1,0 +1,2 @@
+# NeuroShell
+ AI Task Agent is a Visual Studio Code extension designed to streamline and automate development tasks using natural language. Just describe what you want, hit F5, and let the AI generate, refine, and execute shell commands to accomplish the job for you — all while running on your local Python backend powered by OpenRouter or OpenAI.  Ideal for developers who want to speed up repetitive tasks, fix issues, or prototype ideas, this tool combines the power of LLMs with native shell execution and a customizable Python backend.
